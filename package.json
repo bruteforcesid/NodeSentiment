@@ -1,0 +1,24 @@
+{
+  "name": "sentimentweb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "angular-chart.js": "^1.1.1",
+    "angular-route": "^1.4.3",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.0",
+    "mysql": "^2.15.0",
+    "ngstorage": "^0.3.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
